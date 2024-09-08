@@ -1,0 +1,13 @@
+1) Node JS is a JS runtime Enviroment.
+
+2) Kyuki pehle ke time mai JS ke paas woh functionality nhi thi jis se backend bn jaye.
+
+3) Ryan Dahl created Node JS
+
+4) Node JS is a single threaded runtime enviroment.
+
+5) Google chrome ka V8 engine ka code open source hai and Ryan ne uss code mai changes kiye.
+
+6) Chrome ka V8 engine bna hai c++ se.
+
+7) Ryan ne ek wrapper bnaya V8 ke code pr means usne JS ke code se cover kiya V8 ke code ko and jo bhi hum code likhte hai woh pehle JS ke wrapper code ke paas jaata hai and uske baad woh wrapper code usko V8 ke code ko send kr deta hai

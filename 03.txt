@@ -1,0 +1,26 @@
+NPM understanding
+
+1. (Previously) Npm - node package manager.
+but now there is no fix full form of NPM.
+
+2. NPM is a package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js. It consists of a version control repository for the JavaScript file packages, a private registry for JavaScript code, and various related tools. NPM is the
+largest software registry in the world. It contains over 1,000,000 code packages.
+
+3. Node JS mai jo install ho kr aata hai woh module hota hai.
+
+4. Installation from Npm is easy you just need ot write,
+--> npm i package_ka_name.
+
+5. Uninstall a package,
+--> npm uninstall package_ka_name.
+
+6. Installing a particular version of a package,
+--> npm i package_ka_name@version
+
+7. Dev dependencies -
+--> npm i package_ka_name --save-dev
+
+Those dependencies which are used in development and they are not in use when you deploy the project.
+
+8. 
+

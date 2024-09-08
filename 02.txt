@@ -1,0 +1,5 @@
+1) Run this in your terminal,
+
+npm init 
+
+-->This will create a package.json file and it gives the project overview.
